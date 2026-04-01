@@ -1,4 +1,4 @@
 # Download:
 
-- Click on the code button
-- Then click on Download ZIP 
+- Go On Releases Section
+- Download The Zip file
